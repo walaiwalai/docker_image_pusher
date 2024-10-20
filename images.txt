@@ -3,5 +3,6 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 linuxserver/ffmpeg:7.0.2
+caiwen12382/stream-base:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
