@@ -3,5 +3,6 @@ linuxserver/ffmpeg:7.0.2
 caiwen12382/stream-base:latest
 redis:latest
 caiwen12382/stream-base-64:latest
+minio/minio:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
